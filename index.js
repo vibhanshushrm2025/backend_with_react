@@ -125,3 +125,9 @@ app.get("/logout", async (req, res) => {// just set the expiry of cookie to be D
 app.listen(5000, () => {
   console.log("app is working");
 });
+
+
+//git init
+// git status
+// git add file_name ---> add specifice file
+// git add . --->add all files 
